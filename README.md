@@ -1,5 +1,6 @@
 
 ## SMLS
+https://temofeev.ru/info/articles/stegoanaliz-i-mashinnoe-obuchenie/
 
 Стегоанализ изображений с помощью CatboostClassfier и SPAM feature selection.
 
